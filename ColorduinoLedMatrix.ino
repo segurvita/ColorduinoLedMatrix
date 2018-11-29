@@ -114,7 +114,7 @@ unsigned char line = 0;
 define the extern data zone
 **************************************************/
 extern unsigned char font8_8[92][8];
-extern unsigned char pic[4][8][8][3];
+extern unsigned char pic[6][8][8][3];
 /***************************************************
 all parts inition functions zone
 ***************************************************/
