@@ -632,12 +632,10 @@ void loop()
   delay(i);
   DispShowPic(2);
   delay(i);
-  /*
   DispShowPic(3);
   delay(i);
   DispShowPic(4);
   delay(i);
   DispShowPic(5);
   delay(i);
-  */
 }
