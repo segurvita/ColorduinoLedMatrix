@@ -1,5 +1,5 @@
 # ColorduinoLedMatrix
-<div style="text-align:right">Language: <a href="README_JA.md">English</a> | <i>日本語</i></div>
+<div style="text-align:right">Language: <a href="README.md">English</a> | <i>日本語</i></div>
 
 
 Colorduino for 8x8 LED Matrix の練習です。
